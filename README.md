@@ -4,7 +4,7 @@ This repository contains the installation scripts for the VR project.
 
 ## 📦 Download the Game Binaries
 Because the build files are too large for GitHub, download the `.apk` and `.obb` files from the link below:
-👉 **[CLICK HERE TO DOWNLOAD THE BUILD FILES](YOUR_GOOGLE_DRIVE_OR_ITCH_IO_LINK_HERE)**
+👉 **[CLICK HERE TO DOWNLOAD THE BUILD FILES]([YOUR_GOOGLE_DRIVE_OR_ITCH_IO_LINK_HERE](https://drive.google.com/drive/folders/1UMbb0rMfRB9jRgP63Zymv1ihwk0J8v59?usp=sharing))**
 
 ## 🚀 How to Install on Your Android/Quest Device
 1. Download the files from the link above.
